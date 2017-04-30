@@ -1,2 +1,2 @@
 # font-roboto-brick
-The roboto font with brick as a CDN
+An HTML import for Roboto using Brick

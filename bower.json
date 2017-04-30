@@ -1,0 +1,19 @@
+{
+  "name": "font-roboto-brick",
+  "description": "An HTML import for Roboto using Brick",
+  "main": "roboto.html",
+  "authors": [
+    "Adrian Haasler García <dev@adrianhaasler.com> (https://www.adrianhaasler.com)"
+  ],
+  "license": "MIT",
+  "keywords": [
+    "font",
+    "roboto",
+    "brick"
+  ],
+  "homepage": "https://github.com/ahaasler/font-roboto-brick#readme",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ahaasler/font-roboto-brick.git"
+  }
+}
